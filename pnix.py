@@ -57,6 +57,7 @@ def print_banner():
     =========================================
     TOOL   : PHOENIX WAR MACHINE
     AUTHOR : I'M MYSTERIOUS
+    CREDIT : BA_313
     =========================================
     """
     print(banner)
@@ -292,9 +293,4 @@ def main():
     print("="*40)
 
 if __name__ == "__main__":
-    main()
-
-
-
-
-
+    
