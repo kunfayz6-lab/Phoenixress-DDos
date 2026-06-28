@@ -1,3 +1,3 @@
 # Phoenixress-DDos
-.Username : mysterious
-.Password : phoenixrises
+-Username : mysterious
+-Password : phoenixrises
